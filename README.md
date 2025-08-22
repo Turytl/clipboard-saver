@@ -26,7 +26,7 @@ python clipboard_manager.py
 * Copy text as usual; new items are saved automatically.
 * Stop the script with `Ctrl+C`. Clipboard history is preserved.
 
-![usage]("assets/usage.gif")
+![usage](assets/usage.gif)
 
 ## File Structure
 
